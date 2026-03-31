@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "6934d14e1e89806e9e8aec84"
+  },
+  "nombre": "Admin Arte Kuyen",
+  "email": "admin@artekuyen.cl",
+  "passwordHash": "admin123",
+  "rol": "ADMIN",
+  "direccion": {
+    "calle": "Sin dirección",
+    "ciudad": "Rancagua",
+    "region": "O'Higgins",
+    "telefono": "+56 9 0000 0000",
+    "fechaRegistro": "2025-12-06T00:00:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "6934d15b1e89806e9e8aec86"
+  },
+  "nombre": "Cliente Prueba",
+  "email": "cliente@artekuyen.cl",
+  "passwordHash": "cliente123",
+  "rol": "CLIENTE",
+  "direccion": {
+    "calle": "Calle Falsa 123",
+    "ciudad": "Rancagua",
+    "region": "O'Higgins",
+    "telefono": "+56 9 1111 1111",
+    "fechaRegistro": "2025-12-06T00:00:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "6935adf781886a753d8ee611"
+  },
+  "nombre": "Juan",
+  "email": "juan@example.com",
+  "passwordHash": "hola123",
+  "rol": "CLIENTE",
+  "_class": "com.tienda.artekuyenapp.models.usuario.Usuario"
+},
+{
+  "_id": {
+    "$oid": "69364bec6380d90016c317d1"
+  },
+  "nombre": "usernuevo",
+  "email": "user2@gmail.com",
+  "passwordHash": "hola123",
+  "rol": "CLIENTE",
+  "_class": "com.tienda.artekuyenapp.models.usuario.Usuario"
+},
+{
+  "_id": {
+    "$oid": "6936533b7baf8751b9e9c539"
+  },
+  "nombre": "Juan",
+  "email": "juan@hotmail.com",
+  "passwordHash": "hola123",
+  "rol": "CLIENTE",
+  "direccion": {
+    "calle": "hola mundo 123",
+    "ciudad": "temuco",
+    "region": "araucania",
+    "telefono": "934566664",
+    "fechaRegistro": {
+      "$date": "2025-12-08T04:25:31.898Z"
+    }
+  },
+  "_class": "com.tienda.artekuyenapp.models.usuario.Usuario"
+}]

@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "693383ed572f947a4eb68d6d"
+  },
+  "usuarioId": "INVITADO",
+  "items": [
+    {
+      "productoId": "69335394f7921ee963a540c9",
+      "nombre": "Collar Luna y Estrella",
+      "tipo": "FISICO",
+      "cantidad": 1,
+      "precioUnitario": 25000,
+      "subtotal": 25000
+    },
+    {
+      "productoId": "PD1",
+      "nombre": "Ilustración",
+      "tipo": "DIGITAL",
+      "cantidad": 3,
+      "precioUnitario": 10000,
+      "subtotal": 30000
+    },
+    {
+      "productoId": "69335506f7921ee963a540cb",
+      "nombre": "Cuadro Atardecer",
+      "tipo": "FISICO",
+      "cantidad": 4,
+      "precioUnitario": 60000,
+      "subtotal": 240000
+    },
+    {
+      "productoId": "69335539f7921ee963a540cd",
+      "nombre": "Mosaico Azul 40x40",
+      "tipo": "FISICO",
+      "cantidad": 2,
+      "precioUnitario": 45000,
+      "subtotal": 90000
+    }
+  ],
+  "_class": "com.tienda.artekuyenapp.models.orden.Carrito"
+},
+{
+  "_id": {
+    "$oid": "69361b6be6a21d5b78b4228b"
+  },
+  "usuarioId": "432A8691B7F51208F820B0268F6A53BC",
+  "items": [
+    {
+      "productoId": "69335394f7921ee963a540c9",
+      "nombre": "Collar Luna y Estrella",
+      "tipo": "FISICO",
+      "cantidad": 1,
+      "precioUnitario": 25000,
+      "subtotal": 25000
+    },
+    {
+      "productoId": "69335539f7921ee963a540cd",
+      "nombre": "Mosaico Azul 40x40",
+      "tipo": "FISICO",
+      "cantidad": 2,
+      "precioUnitario": 45000,
+      "subtotal": 90000
+    },
+    {
+      "productoId": "PD1",
+      "nombre": "Ilustración",
+      "tipo": "DIGITAL",
+      "cantidad": 1,
+      "precioUnitario": 10000,
+      "subtotal": 10000
+    },
+    {
+      "productoId": "69335506f7921ee963a540cb",
+      "nombre": "Cuadro Atardecer",
+      "tipo": "FISICO",
+      "cantidad": 1,
+      "precioUnitario": 60000,
+      "subtotal": 60000
+    }
+  ],
+  "_class": "com.tienda.artekuyenapp.models.orden.Carrito"
+},
+{
+  "_id": {
+    "$oid": "6936534b7baf8751b9e9c53a"
+  },
+  "usuarioId": "6936533b7baf8751b9e9c539",
+  "items": [
+    {
+      "productoId": "69335539f7921ee963a540cd",
+      "nombre": "Mosaico Azul 40x40",
+      "tipo": "FISICO",
+      "cantidad": 1,
+      "precioUnitario": 45000,
+      "subtotal": 45000
+    },
+    {
+      "productoId": "69335506f7921ee963a540cb",
+      "nombre": "Cuadro Atardecer",
+      "tipo": "FISICO",
+      "cantidad": 1,
+      "precioUnitario": 60000,
+      "subtotal": 60000
+    }
+  ],
+  "_class": "com.tienda.artekuyenapp.models.orden.Carrito"
+},
+{
+  "_id": {
+    "$oid": "693653ea3e0e4d37399e6b45"
+  },
+  "usuarioId": "6935adf781886a753d8ee611",
+  "items": [],
+  "_class": "com.tienda.artekuyenapp.models.orden.Carrito"
+},
+{
+  "_id": {
+    "$oid": "693659bafd20637a06581707"
+  },
+  "usuarioId": "6934d14e1e89806e9e8aec84",
+  "items": [
+    {
+      "productoId": "69335506f7921ee963a540cb",
+      "nombre": "Cuadro Atardecer",
+      "tipo": "FISICO",
+      "cantidad": 1,
+      "precioUnitario": 60000,
+      "subtotal": 60000
+    },
+    {
+      "productoId": "69335394f7921ee963a540c9",
+      "nombre": "Collar Luna y Estrella",
+      "tipo": "FISICO",
+      "cantidad": 1,
+      "precioUnitario": 25000,
+      "subtotal": 25000
+    }
+  ],
+  "_class": "com.tienda.artekuyenapp.models.orden.Carrito"
+}]

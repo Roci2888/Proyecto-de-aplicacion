@@ -1,0 +1,61 @@
+[{
+  "_id": "CAR-001",
+  "usuarioId": "INVITADO",
+  "items": [
+    {
+      "productoId": "CUD-001",
+      "nombre": "Cuadro Atardecer",
+      "tipo": "FISICO",
+      "cantidad": 1,
+      "precioUnitario": 60000,
+      "subtotal": 60000
+    },
+    {
+      "productoId": "MOS-001",
+      "nombre": "Mosaico Azul 40x40",
+      "tipo": "DIGITAL",
+      "cantidad": 2,
+      "precioUnitario": 45000,
+      "subtotal": 90000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69365b1ab4fce30ee2ac18ff"
+  },
+  "usuarioId": "6934d14e1e89806e9e8aec84",
+  "items": [
+    {
+      "productoId": "69335506f7921ee963a540cb",
+      "nombre": "Cuadro Atardecer",
+      "tipo": "FISICO",
+      "cantidad": 1,
+      "precioUnitario": 60000,
+      "subtotal": 60000
+    },
+    {
+      "productoId": "69335394f7921ee963a540c9",
+      "nombre": "Collar Luna y Estrella",
+      "tipo": "FISICO",
+      "cantidad": 1,
+      "precioUnitario": 25000,
+      "subtotal": 25000
+    }
+  ],
+  "total": 85000,
+  "estado": "CREADA",
+  "fechaCreacion": {
+    "$date": "2025-12-08T04:59:06.972Z"
+  },
+  "direccion": {
+    "calle": "Sin dirección",
+    "ciudad": "Rancagua",
+    "region": "O'Higgins",
+    "telefono": "+56 9 0000 0000",
+    "fechaRegistro": {
+      "$date": "2025-12-06T03:00:00.000Z"
+    }
+  },
+  "_class": "com.tienda.artekuyenapp.models.orden.Orden"
+}]

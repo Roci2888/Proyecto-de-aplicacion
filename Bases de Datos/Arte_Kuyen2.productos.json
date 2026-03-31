@@ -1,0 +1,50 @@
+[{
+  "_id": "PD1",
+  "_class": "com.tienda.artekuyenapp.models.productos.ProductoDigital",
+  "nombre": "Ilustración",
+  "precioBase": 10000,
+  "urlDescarga": "https://...",
+  "imagenUrl": "https://escolajoso.com/wp-content/uploads/2025/08/18curso-intensivo-de-ilustracion-digital-con-procreate-de-escola-joso-centro-de-comic-y-artes-visuales-1024x605.jpg"
+},
+{
+  "_id": {
+    "$oid": "69335394f7921ee963a540c9"
+  },
+  "id": "JOY-001",
+  "_class": "com.tienda.artekuyenapp.models.productos.ProductoFisico",
+  "nombre": "Collar Luna y Estrella",
+  "descripcion": "Joya hecha a mano con dije de luna y estrella.",
+  "precioBase": 25000,
+  "stock": 10,
+  "categoria": "JOYA",
+  "pesoKg": 0.1,
+  "imagenUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_728509-MLC81973514368_022025-F.webp"
+},
+{
+  "_id": {
+    "$oid": "69335506f7921ee963a540cb"
+  },
+  "id": "CUD-001",
+  "_class": "com.tienda.artekuyenapp.models.productos.ProductoFisico",
+  "nombre": "Cuadro Atardecer",
+  "descripcion": "Cuadro al óleo con paisaje de atardecer.",
+  "precioBase": 60000,
+  "stock": 3,
+  "categoria": "CUADRO",
+  "pesoKg": 2.5,
+  "imagenUrl": "https://www.tenvinilo-chile.com/webp/quadres/large/cuadro-de-paisaje-colorido-atardecer-colores-esteticos-69430.webp"
+},
+{
+  "_id": {
+    "$oid": "69335539f7921ee963a540cd"
+  },
+  "id": "MOS-001",
+  "_class": "com.tienda.artekuyenapp.models.productos.ProductoFisico",
+  "nombre": "Mosaico Azul 40x40",
+  "descripcion": "Mosaico artesanal en tonos azules, tamaño 40x40 cm.",
+  "precioBase": 45000,
+  "stock": 5,
+  "categoria": "MOSAICO",
+  "pesoKg": 1.2,
+  "imagenUrl": "https://previews.123rf.com/images/cobracz/cobracz1502/cobracz150200172/36747557-blue-tiles-seamless-mosaic-pattern.jpg"
+}]
