@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Compra finalizada</title>
+</head>
+<body>
+<h1>Compra finalizada correctamente</h1>
+
+<p th:text="'Número de orden: ' + ${orden.id}"></p>
+<p th:text="'Total: $' + ${orden.total}"></p>
+
+<h3>Productos</h3>
+<ul>
+    <li th:each="item : ${orden.items}">
+        <span th:text="${item.nombre}"></span> -
+        <span th:text="${item.cantidad}"></span> x
+        <span th:text="${item.precioUnitario}"></span> =
+        <span th:text="${item.subtotal}"></span>
+    </li>
+</ul>
+
+</body>
+</html>
